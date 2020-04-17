@@ -19,7 +19,7 @@
 This repository was created to keep an ongoing list of all of the projects, both collaborative and solo, that I have worked on thus far. This list will include a brief description of the project, a link to the GitHub repository and a link to the live demo of the project where available.
 
 ## Table of Contents
-* [HTML & CSS](#html-&-css)
+* [HTML & CSS](#HTML-&-CSS)
 * [RUBY](#ruby)
 * [SQL](#sql)
 * [RUBY ON RAILS](#ruby-on-rails)
