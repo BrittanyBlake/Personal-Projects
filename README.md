@@ -93,6 +93,11 @@ This was a collaborative project in which we were asked to write tests using Rsp
 This was a collaborative project in which we were asked to write tests using Rspec for our Enumerable Methods project (project 2).
 * Find in [GitHub]()
 
+
+## RUBY ASSESSMENT
+This was a solo project at the end of the Microverse RUBY Curriculum. 
+* Find in [GitHub]()
+
 ## SQL:
 
 
