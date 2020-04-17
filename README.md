@@ -20,11 +20,11 @@ This repository was created to keep an ongoing list of all of the projects, both
 
 ## Table of Contents
 * [HTML & CSS](#HTML-&-CSS)
-* [RUBY](#ruby)
-* [SQL](#sql)
-* [RUBY ON RAILS](#ruby-on-rails)
-* [JAVASCRIPT](#javascript)
-* [REACT & REDUX](#react-&-redux)
+* [RUBY](#RUBY)
+* [SQL](#SQL)
+* [RUBY ON RAILS](#RUBY-ON-RAILS)
+* [JAVASCRIPT](#JAVASCRIPT)
+* [REACT & REDUX](#REACT-&-REDUX)
 
 ## HTML & CSS:
 
@@ -70,4 +70,44 @@ This was a solo project in which I was asked to replicate <a href="https://www.n
 This was a solo project at the end of the Microverse HTML & CSS Curriculum. For this project, I was asked to build a 3 page website based on given specifications. 
 * Find in [GitHub](https://github.com/BrittanyBlake/Capstone-project-html)
 * See [Live Demo](https://brittanyblake.github.io/Capstone-project-html/)
+
+## RUBY:
+
+## Project 1: Advanced Building Blocks- Bubble Sort
+This was a collaborative project in which we were asked to implement the bubble sort algorithm focusing on the use of yield and passing a block to a method.
+* Find in [GitHub](https://github.com/BrittanyBlake/Bubble-sort)
+
+## Project 2: Advanced Building Blocks- Enumerable Methods
+This was a solo project in which I was asked to implement my own version of Ruby's enumerable methods. 
+* Find in [GitHub](https://github.com/BrittanyBlake/enumerable-methods)
+
+## Project 3: Object Oriented Programming
+This was a collaborative project split into 4 milestones in which we were asked to build a Tic Tac Toe game.
+* Find in [GitHub]()
+
+## Project 4: Testing Your Code- Tic Tac Toe
+This was a collaborative project in which we were asked to write tests using Rspec for our Tic Tac Toe project (project 3).
+* Find in [GitHub]()
+
+## Project 5: Testing Your Code- Enumerable Methods
+This was a collaborative project in which we were asked to write tests using Rspec for our Enumerable Methods project (project 2).
+* Find in [GitHub]()
+
+## SQL:
+
+
+## RUBY ON RAILS:
+
+
+
+## JAVASCRIPT:
+
+
+
+## REACT & REDUX:
+
+
+
+
+
 
