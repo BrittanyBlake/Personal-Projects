@@ -96,7 +96,7 @@ This was a collaborative project in which we were asked to write tests using Rsp
 
 ## RUBY ASSESSMENT
 This was a solo project at the end of the Microverse RUBY Curriculum. 
-* Find in [GitHub]()
+* Find in [GitHub](https://github.com/BrittanyBlake/Ruby-Capstone-Project)
 
 ## SQL:
 
