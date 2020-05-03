@@ -99,6 +99,8 @@ This was a solo project at the end of the Microverse RUBY Curriculum.
 * Find in [GitHub](https://github.com/BrittanyBlake/Ruby-Capstone-Project)
 
 ## SQL:
+This was a solo project where I was asked to test my knowledge of SQL by doing SQL Zoo tutorials and quizzes.
+* Find in [GitHub](https://github.com/BrittanyBlake/SQL-ZOO-solutions)
 
 
 ## RUBY ON RAILS:
