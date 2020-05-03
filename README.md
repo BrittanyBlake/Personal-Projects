@@ -91,7 +91,7 @@ This was a collaborative project in which we were asked to write tests using Rsp
 
 ## Project 5: Testing Your Code- Enumerable Methods
 This was a collaborative project in which we were asked to write tests using Rspec for our Enumerable Methods project (project 2).
-* Find in [GitHub]()
+* Find in [GitHub](https://github.com/BrittanyBlake/enumerable-methods/tree/feature-rspec)
 
 
 ## RUBY ASSESSMENT
