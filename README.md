@@ -83,7 +83,7 @@ This was a solo project in which I was asked to implement my own version of Ruby
 
 ## Project 3: Object Oriented Programming
 This was a collaborative project split into 4 milestones in which we were asked to build a Tic Tac Toe game.
-* Find in [GitHub]()
+* Find in [GitHub](https://github.com/BrittanyBlake/tic-tac-toe)
 
 ## Project 4: Testing Your Code- Tic Tac Toe
 This was a collaborative project in which we were asked to write tests using Rspec for our Tic Tac Toe project (project 3).
