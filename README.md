@@ -87,7 +87,7 @@ This was a collaborative project split into 4 milestones in which we were asked 
 
 ## Project 4: Testing Your Code- Tic Tac Toe
 This was a collaborative project in which we were asked to write tests using Rspec for our Tic Tac Toe project (project 3).
-* Find in [GitHub]()
+* Find in [GitHub](https://github.com/BrittanyBlake/tic-tac-toe/tree/rspec)
 
 ## Project 5: Testing Your Code- Enumerable Methods
 This was a collaborative project in which we were asked to write tests using Rspec for our Enumerable Methods project (project 2).
