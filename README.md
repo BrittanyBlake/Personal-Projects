@@ -90,7 +90,7 @@ This was a collaborative project in which we were asked to write tests using Rsp
 * Find in [GitHub](https://github.com/BrittanyBlake/tic-tac-toe/tree/rspec)
 
 ## Project 5: Testing Your Code- Enumerable Methods
-This was a collaborative project in which we were asked to write tests using Rspec for our Enumerable Methods project (project 2).
+This was a collaborative project in which we were asked to write tests using Rspec for our Enumerable Methods project (project 2). Although it was collaborative, I worked on this project by myself.
 * Find in [GitHub](https://github.com/BrittanyBlake/enumerable-methods/tree/feature-rspec)
 
 
