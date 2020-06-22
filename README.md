@@ -105,7 +105,42 @@ This was a solo project where I was asked to test my knowledge of SQL by doing S
 
 ## RUBY ON RAILS:
 
+## Project 1: Installing Rails
+This was a solo project in which we were asked to install and create our first rails application.
+* Find in [GitHub](https://github.com/BrittanyBlake/my_first_rails_app)
 
+## Project 2: Blog App
+This was a collaborative project in which we were asked to follow a tutorial and create a rails blog app. Although this was a collaborative project, I worked on this project myself.
+* Find in [GitHub](https://github.com/BrittanyBlake/blog_app)
+
+## Project 3: Building with Active Record
+This was a collaborative project in which we were asked to build a junior version of reddit with the data structures necessary to support link submissions and commenting
+* Find in [GitHub]https://github.com/BrittanyBlake/micro-reddit)
+
+## Project 4: Blog App
+This was a collaborative project in which we were asked to follow a tutorial and create a rails blog app. Although this was a collaborative project, I worked on this project myself.
+* Find in [GitHub](https://github.com/BrittanyBlake/blog_app)
+
+## Project 5: Forms
+This was a collaborative project in which we were asked to build three forms using rails and HTML/CSS that can send parameters to a controller so that it can build an instance of a model with those parameters.
+* Find in [GitHub](https://github.com/adamclasic/re-former)
+
+## Project 6: Authentication
+This was a collaborative project in which we were asked to build an application that allows users to create posts where the users are able to create posts and view the authors of the other posts while non-logged in members are only able to view the posts.
+* Find in [GitHub](https://github.com/BrittanyBlake/members_only)
+
+## Project 7: Associations
+This was a collaborative project in which we were asked to build a junior version EventBrite called Private-Events. We built the data structures necessary to support link submissions and commenting.
+* Find in [GitHub](https://github.com/BrittanyBlake/private-events)
+
+## Project 8: Social Media Website
+This was a collaborative project split into 4 milestones in which we were asked to build a social media app called "Stay in touch". For this project, we were required to build on top of an existing project.
+* Find in [GitHub]()
+* Project skeleton found in [GitHub]()
+
+## RUBY ON RAILS ASSESSMENT
+This was a solo project at the end of the Microverse RUBY ON RAILS Curriculum. 
+* Find in [GitHub]()
 
 ## JAVASCRIPT:
 
