@@ -115,7 +115,7 @@ This was a collaborative project in which we were asked to follow a tutorial and
 
 ## Project 3: Building with Active Record
 This was a collaborative project in which we were asked to build a junior version of reddit with the data structures necessary to support link submissions and commenting
-* Find in [GitHub]https://github.com/BrittanyBlake/micro-reddit)
+* Find in [GitHub](https://github.com/BrittanyBlake/micro-reddit)
 
 ## Project 4: Blog App
 This was a collaborative project in which we were asked to follow a tutorial and create a rails blog app. Although this was a collaborative project, I worked on this project myself.
@@ -136,7 +136,7 @@ This was a collaborative project in which we were asked to build a junior versio
 ## Project 8: Social Media Website
 This was a collaborative project split into 4 milestones in which we were asked to build a social media app called "Stay in touch". For this project, we were required to build on top of an existing project.
 * Find in [GitHub]()
-* Project skeleton found in [GitHub]()
+ [* Project skeleton found in]()
 
 ## RUBY ON RAILS ASSESSMENT
 This was a solo project at the end of the Microverse RUBY ON RAILS Curriculum. 
