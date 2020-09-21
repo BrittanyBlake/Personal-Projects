@@ -135,21 +135,64 @@ This was a collaborative project in which we were asked to build a junior versio
 
 ## Project 8: Social Media Website
 This was a collaborative project split into 4 milestones in which we were asked to build a social media app called "Stay in touch". For this project, we were required to build on top of an existing project.
-* Find in [GitHub]()
- [* Project skeleton found in]()
+* Find in [GitHub](https://github.com/adamclasic/ror-social-scaffold)
+ [* Project skeleton found in](https://github.com/microverseinc/ror-social-scaffold)
 
 ## RUBY ON RAILS ASSESSMENT
 This was a solo project at the end of the Microverse RUBY ON RAILS Curriculum. 
-* Find in [GitHub]()
+* Find in [GitHub](https://github.com/BrittanyBlake/Bookable-app)
 
 ## JAVASCRIPT:
+## Project 1: Library
+This was a collaborative project in which we were asked to build a library application where the user can add and remove books. The user can also enter information about the books such as the amount of pages, and they can toggle between true and false to indicate if the book has already been read.
+* Find in [GitHub](https://github.com/evabanegacom/Library)
 
+## Project 2: Tic Tac Toe
+This was a collaborative project in which we were asked to build a Tic-Tac-Toe game using Javascript.
+* Find in [GitHub](https://github.com/BrittanyBlake/JS-Tic-Tac-Toe)
+
+## Project 4: Restaurant Page
+This was a solo project in which I was asked to build a single page application using DOM manipulation and webpack.
+* Find in [GitHub](https://github.com/BrittanyBlake/restaurant-page-js)
+
+## Project 5: To Do List
+This was a collaborative project in which we were asked to build a web application where a user can add projects and different tasks. This project was designed for practising OOP and implementing Single Responsibility and to avoid using Tightly Coupled Objects.
+* Find in [GitHub](https://github.com/evabanegacom/Todo-List)
+
+## Project 6: Weather App
+This was a solo project in which we were asked to build a weather application where the user can search for the weather in different cities. I used the Open Weather API to get the data for the weather of the cities. 
+* Find in [GitHub](https://github.com/BrittanyBlake/weather-app)
+
+## Project 7: Testing Practice
+this was a collaborative project in which we were tasked with building a few functions and testing those functions using Jest. This project was designed to strengthen our skills in TDD.
+* Find in [GitHub](https://github.com/BrittanyBlake/Testing_practice)
+
+## Project 8: Testing Tic Tac Toe
+this was a collaborative project in which we were tasked with adding tests to our Tic Tac Toe project we created in project 2. 
+* Find in [GitHub](https://github.com/BrittanyBlake/JS-Tic-Tac-Toe)
+
+## JAVASCRIPT ASSESSMENT
+This was a solo project at the end of the Microverse JAVASCRIPT Curriculum. 
+* Find in [GitHub](https://github.com/BrittanyBlake/JS-Shooter-game)
 
 
 ## REACT & REDUX:
 
+## Project 1: Calculator
+this was a solo project split into 5 milestones in which we were tasked with building a calculator.
+* Find in [GitHub]()
 
+## Project 2: Bookstore
+this was a collaborative project split into 5 milestones in which we were takes with building a bookstore. 
+* Find in [GitHub]()
 
+## REACT & REDUX ASSESSMENT
+This was a solo project at the end of the Microverse REACT & REDUX Curriculum. 
+* Find in [GitHub]()
+
+## FINAL ASSESSMENT
+This was a solo project at the end of the Microverse Technical Curriculum designed to test all of the concepts that we have learned. 
+* Find in [GitHub]()
 
 
 
